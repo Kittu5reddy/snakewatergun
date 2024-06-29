@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: aqua;
+}
+
+#header{
+    height: 75px;
+    width: 100%;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 5rem;
+}
+
+
+#options{
+    height: 450px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    
+    gap:5rem
+}
+
+.option{
+    height: 230px;
+    width: 230px;
+}
+img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    
+}
+
+img:hover{
+    opacity: 0.6;
+    border: 10px solid;
+}
+
+.scores{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    text-align: center;
+    font-size: xx-large;
+    border: 5px solid ;
+    border-radius: 20px ; 
+}
+
+.messages{
+    height: 200px;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 40px;
+}
+
