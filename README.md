@@ -1,5 +1,7 @@
 # 🐍💧🔫 Snake Water Gun Game
 
+![Game Screenshot](/Screenshot%202025-02-05%20at%2010.44.21 PM.png)
+
 This is a simple Snake Water Gun game implemented using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🎮 How to Play
